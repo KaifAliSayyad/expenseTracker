@@ -1,6 +1,6 @@
 module.exports = {
   name: 'SpendWise',
-  slug: 'expenseTracker',
+  slug: 'expensetracker',
   version: '1.0.0',
   orientation: 'portrait',
   icon: './assets/images/icon.png',
